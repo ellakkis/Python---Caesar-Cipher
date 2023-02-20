@@ -17,7 +17,7 @@ Program will take the first letter from your word 'h' and try to match it with a
 If found, it will take its position index and add the shift and then take the letter in the alphabet that is in the new position.
 So 7 + 5 = 12 => new letter will be at position 12 in the alphabet list: 'm' and so on.
 
-##🐛Bug alert: What happens if you try to encode the word 'civilization'?🐛
+#🐛Bug alert: What happens if you try to encode the word 'civilization'?🐛
 
 The solution for this bug has been incorporated here already
 hint: go round and round the list!!
