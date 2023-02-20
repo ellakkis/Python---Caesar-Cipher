@@ -19,6 +19,7 @@ So 7 + 5 = 12 => new letter will be at position 12 in the alphabet list: 'm' and
 
 # 🐛Bug alert:🐛
 What happens if you try to encode the word 'civilization'?
+The easy solution is to copy the content of the alphabet list and paste them twice so your index will grow to 49 (I don't like that)
 The solution for this bug has been incorporated here already
 hint: go round and round the list!!
 
